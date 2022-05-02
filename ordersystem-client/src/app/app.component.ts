@@ -9,8 +9,4 @@ import { Component } from '@angular/core';
     </div>
     `
 })
-export class AppComponent {
-  constructor(){
-    console.log(2222)
-  }
-}
+export class AppComponent {}
